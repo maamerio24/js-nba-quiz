@@ -1,0 +1,101 @@
+#finished {
+    visibility: hidden;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#q1 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q2 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q3 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q4 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q5 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q6 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q7 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q8 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q9 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#q10 {
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+#button{
+    width: 100%;
+    height: 40px;
+}
+
+#total{
+    font-size: 25px;
+    font-weight: bold;
+}
